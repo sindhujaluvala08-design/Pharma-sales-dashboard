@@ -13,10 +13,11 @@ The project includes KPI monitoring, sales trend analysis, interactive filters, 
 - Streamlit
 - Pandas
 - Plotly
+
 #HOW TO RUN PROJECT
 - How to Run the Project
 - Step 1: Install Required Libraries
 - Step 2: Run the Application
-Type the following command in Command Prompt:
+- Type the following command in Command Prompt:
 "python -m streamlit run app.py"
 - Step 3: Open in Browser
