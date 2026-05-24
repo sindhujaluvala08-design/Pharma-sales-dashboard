@@ -26,3 +26,6 @@ The project includes KPI monitoring, sales trend analysis, interactive filters, 
 - Type the following command in Command Prompt:
 "python -m streamlit run app.py"
 - Step 3: Open in Browser
+- login credentials
+- username:- admin
+- password:- 1234
